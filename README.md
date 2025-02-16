@@ -58,7 +58,7 @@ Each project is contained within a Jupyter Notebook. To run them:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://[https://github.com/Nafisa-Rumman-Sauda/Implementation-of-Autonomous-Driving-on-a-Four-wheeler-prototype-Car-with-Raspberry-Pi-.git]
    ```
    
 2. Navigate to the directory:
